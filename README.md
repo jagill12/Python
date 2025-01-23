@@ -8,10 +8,15 @@ called your "working directory." After that, run the program again and select op
 The resulting folder containing the four files that present your results will be named after the name you give the program. READ THE NEXT SECTIONS BEFORE LAUNCHING IT.
 
                                                    OPERATIONAL PREREQUISITES
-This code uses the programming language "Python." If you're new to computing programming, this section is for you. If you don't already have a code editor, go ahead and download "Visual Studio Code." 
-Once you've downloaded it, install Python version 3+. Once it's installed, you'll need to run this line of code on the next line before running the program:
+This code uses the programming language "Python." This section is for you if you're new to computing programming. Download "Visual Studio Code" from 
+this link if you don't already have a code editor -> https://code.visualstudio.com/download
+Once you've downloaded it, install Python version 3+ from this link -> https://www.python.org/downloads/
+
+Then you'll need to open the program "Windows Powershell", running it as an administrator, and paste the line of code that's on the next line before running the program:
 
 pip install numpy matplotlib pandas
+
+hit enter
 
 IF YOU DON'T KNOW HOW TO RUN CODE: 
 All you do is save the script by pressing "file" then "save" from the drop-down menu on the top left, then press the play button in the top right corner. The rest of the quiz should be pretty intuitive.
