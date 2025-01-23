@@ -18,5 +18,7 @@ pip install numpy matplotlib pandas
 
 hit enter
 
+Now you just need to download the Animalquiz2.py script. Right click on it once it's downloaded, select "open with" and choose Visual Studio Code.
+
 IF YOU DON'T KNOW HOW TO RUN CODE: 
 All you do is save the script by pressing "file" then "save" from the drop-down menu on the top left, then press the play button in the top right corner. The rest of the quiz should be pretty intuitive.
